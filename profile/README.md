@@ -30,7 +30,7 @@ Cyto provides:
 * A path toward clean, normalized schemas
 * Provenance for both canonical and user-published artifacts
 
-The goal is simple: **make biological data predictable.** 
+**The goal is to make biological data predictable.** 
 
 ---
 
