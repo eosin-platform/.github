@@ -79,6 +79,7 @@ See the pinned repositories for entry points.
 - [Eosin III: Ecosystem Holes](https://thavlik.dev/blog/2026-02-22/eosin-iii-ecosystem-holes)
 - [Cyto Vendor Examples](https://thavlik.dev/blog/2026-02-23/cyto-vendor-examples)
 - [Eosin IV: Emergent Systems](https://thavlik.dev/blog/2026-02-24/eosin-iv-emergent-systems)
+- [Eosin V: The Registry](https://thavlik.dev/blog/2026-02-28/eosin-v-the-registry)
 
 ## **🤝 Contributing**
 
