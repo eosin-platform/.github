@@ -5,6 +5,8 @@ The organization includes three pillar projects:
 ---
 
 ## **🔬 Eosin — Modern WSI & microscopy infrastructure**
+- [Website](https://eosin.ai)
+- [Main Repo](https://github.com/eosin-platform/eosin)
 
 Rust + SvelteKit stack for high-performance whole-slide imaging:
 
