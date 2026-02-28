@@ -5,6 +5,7 @@ The organization includes three pillar projects:
 ---
 
 ## **🔬 Eosin — Modern WSI & microscopy infrastructure**
+[Website](https://eosin.ai) [Main Repo](https://github.com/eosin-platform/eosin)
 
 Rust + SvelteKit stack for high-performance whole-slide imaging:
 
@@ -30,7 +31,7 @@ Cyto provides:
 * A path toward clean, normalized schemas
 * Provenance for both canonical and user-published artifacts
 
-The goal is simple: **make biological data predictable.** 
+**The goal is to make biological data predictable.** 
 
 ---
 
